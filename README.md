@@ -41,9 +41,9 @@ Built a functional Google Workspace environment from scratch to demonstrate hand
 <img width="1170" height="448" alt="Screenshot 2026-09-28 at 10 10 51 PM" src="https://github.com/user-attachments/assets/e48375df-fbf6-4ae7-b1a1-651f1c9cbaac" />
 <img width="981" height="747" alt="Screenshot 2026-09-28 at 10 19 24 PM" src="https://github.com/user-attachments/assets/03eddf7c-0423-4dce-813e-1db7f8911ffc" />
 <img width="996" height="678" alt="Screenshot 2026-11-03 at 6 03 35 PM" src="https://github.com/user-attachments/assets/27914daa-2ba4-446b-9cfd-d2791b03e7f9" />
+<img width="756" height="584" alt="Screenshot 2026-09-29 at 12 55 42 PM" src="https://github.com/user-attachments/assets/43e555aa-51a5-4d28-b3c6-c2fa334032cf" />
 <img width="682" height="556" alt="Screenshot 2026-09-29 at 1 21 56 PM" src="https://github.com/user-attachments/assets/03d9de7f-988e-4a44-83a9-759c9e77444a" />
 <img width="851" height="665" alt="Screenshot 2026-09-29 at 3 04 11 PM" src="https://github.com/user-attachments/assets/665f36db-c813-47eb-9e6f-3befacc6c354" />
-<img width="756" height="584" alt="Screenshot 2026-09-29 at 12 55 42 PM" src="https://github.com/user-attachments/assets/43e555aa-51a5-4d28-b3c6-c2fa334032cf" />
 <img width="1201" height="737" alt="Screenshot 2026-09-29 at 3 12 20 PM" src="https://github.com/user-attachments/assets/c64c7eb3-6529-48bb-885e-690b136d6d7e" />
 <img width="1118" height="564" alt="Screenshot 2026-09-29 at 8 17 00 PM" src="https://github.com/user-attachments/assets/ed7c8ea3-1abd-4fcc-913b-1736b1a256a6" />
 
